@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/mstile-150x150.png"/>
+            <square150x150logo src="Missiles-journey/mstile-150x150.png"/>
             <TileColor>#4caf50</TileColor>
         </tile>
     </msapplication>
